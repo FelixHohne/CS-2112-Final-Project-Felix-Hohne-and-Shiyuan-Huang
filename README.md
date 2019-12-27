@@ -43,6 +43,7 @@ A key part of our assignment was to be able to visualize our simulation. When we
 
 This naturally made it challenging to debug, test and appreciate the simulation in progress. We then developed a Graphical User Interface using JavaFX. This GUI is showing the same scene as above: 
 
+<img width="1279" alt="GUIVersion" src="https://user-images.githubusercontent.com/58995473/71512451-82a0c080-2896-11ea-99b8-67dfd68bf14f.png">
 
 
 
