@@ -41,16 +41,17 @@ This naturally made it challenging to debug, test and appreciate the simulation 
 
 <img width="1279" alt="GUIVersion" src="https://user-images.githubusercontent.com/58995473/71512451-82a0c080-2896-11ea-99b8-67dfd68bf14f.png">
 
-Here, Green tiles represent food tiles with the number on them showing the quantity of food on the food tile, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
+Here, Green tiles represent food tiles with the number on them showing the quantity of food on that hex, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
 
 In this Graphical User Interface, users can: 
 + Load custom worlds and critters they wrote using the File Menu
 + Read through a simple tutorial using the question mark button 
 + Run the simulation step by step or continuously using the buttons at the bottom left
 + Click on a critter and see information about its current state
-+ See the number of turns that this simulation has run and the number of critters that are alive. 
++ View the number of turns that this simulation has run and the number of critters that are alive. 
++ Distinguish between different critter species based on the arrow color
 
-Here is the GUI in action: 
+Here is our GUI in action: 
 
 ![ActionGUI](https://user-images.githubusercontent.com/58995473/71513716-ce099d80-289b-11ea-92cd-d947f9e8077f.gif)
 
