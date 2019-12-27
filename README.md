@@ -33,7 +33,7 @@ The Spiral Critter in Action:
 ___
 **Graphical User Interface**
 
-A key part of our assignment was to visualize our simulation. When we originally wrote our simulation logic, we worked off a Command Line Interface. Here, the numbers represent critters and the direction they are pointing in, # represent rock tiles, F represent food tiles, and _ represent empty tiles. 
+A key part of our assignment was to visualize our simulation. When we originally wrote our simulation logic, we worked with a Command Line Interface. Here, the numbers represent critters and the direction they are pointing in, # represent rock tiles, F represent food tiles, and _ represent empty tiles. 
 
 <img width="176" alt="NewCUIImage" src="https://user-images.githubusercontent.com/58995473/71511941-6a2fa680-2894-11ea-9877-7c727b47f639.png">
 
