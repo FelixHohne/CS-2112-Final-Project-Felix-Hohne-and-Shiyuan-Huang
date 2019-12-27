@@ -62,5 +62,3 @@ _TODO_
 
 **Distributed Application**
 
-![Concurrency](https://user-images.githubusercontent.com/58995473/71515650-a79c3000-28a4-11ea-917f-4f482389db75.gif)
-
