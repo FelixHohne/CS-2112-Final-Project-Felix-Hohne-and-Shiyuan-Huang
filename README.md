@@ -37,11 +37,13 @@ Using the context-free gramar above, we wrote the following Spiral Critter Progr
 ___
 **Graphical User Interface**
 
-A key part of our assignment was to be able to visualize our simulation. When we originally wrote our simulation logic, we worked off a Command Line Interface: 
+A key part of our assignment was to be able to visualize our simulation. When we originally wrote our simulation logic, we worked off a Command Line Interface. Here, the numbers represent critters and the direction they are pointing in, # represent rock tiles, and F represent food tiles. 
 
 <img width="176" alt="NewCUIImage" src="https://user-images.githubusercontent.com/58995473/71511941-6a2fa680-2894-11ea-9877-7c727b47f639.png">
 
-This naturally made it challenging to debug, test and appreciate the simulation in progress. We then developed a Graphical User Interface using JavaFX: 
+This naturally made it challenging to debug, test and appreciate the simulation in progress. We then developed a Graphical User Interface using JavaFX. This GUI is showing the same scene as above: 
+
+
 
 
 ___
