@@ -37,7 +37,7 @@ Using the context-free gramar above, we wrote the following Spiral Critter Progr
 ___
 **Graphical User Interface**
 
-
+<img width="176" alt="NewCUIImage" src="https://user-images.githubusercontent.com/58995473/71511941-6a2fa680-2894-11ea-9877-7c727b47f639.png">
 
 
 ___
