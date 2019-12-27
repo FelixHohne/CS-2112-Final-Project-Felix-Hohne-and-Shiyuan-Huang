@@ -37,7 +37,7 @@ Using the context-free gramar above, we wrote the following Spiral Critter Progr
 ___
 **Graphical User Interface**
 
-[CUIDisplay.txt](https://github.com/FelixHohne/CS-2112-Final-Project-Felix-Hohne-and-Shiyuan-Huang/files/4004897/CUIDisplay.txt)
+<img width="432" alt="CUIDisplayImage" src="https://user-images.githubusercontent.com/58995473/71511859-18871c00-2894-11ea-8ead-75960817171a.png">
 
 
 
