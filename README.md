@@ -73,7 +73,3 @@ The final core part of our project was separating our Graphical User Interface f
 As a demonstration, we run two GUIs at the same time, with different permissions. The top GUI has administrator access and can make modifications to the world, whereas the bottom GUI has read only access to the world and therefore has the play and pause buttons are greyed out. Despite having different zoom conditions and different permissions, the two GUIs display the same world state: 
 
 ![NewConcurrency2](https://user-images.githubusercontent.com/58995473/71531749-67fb3580-28f0-11ea-971b-20f156a80c97.gif)
-
-
-![NewConcurrency](https://user-images.githubusercontent.com/58995473/71516401-08c60280-28a9-11ea-8ed4-d4000686db15.gif)
-
