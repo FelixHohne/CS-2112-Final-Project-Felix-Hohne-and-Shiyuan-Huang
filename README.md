@@ -22,7 +22,7 @@ While we are unable to show our actual code in order to protect academic integri
 ___
 **Spiral Critter** 
 
-Here is an example of a program we wrote that causes a critter to spiral on a map, with some slight changes to protect academic integrity. Our Parser parses the program written in the critter language, converts it into an Abstract Syntax Tree, then interprets the instructions based on conditions occurring in the world, as computed by the simulator. 
+Here is an example of a critter program we wrote that causes a critter to spiral on a map, with some slight changes to protect academic integrity. Our Parser parses the program written in the critter language, converts it into an Abstract Syntax Tree, then interprets the instructions based on conditions occurring in the world, as computed by the simulator. 
 
 <img width="1059" alt="newSpiral" src="https://user-images.githubusercontent.com/58995473/71490416-12a92080-282b-11ea-9e7a-65bb0c230dd5.png">
 
