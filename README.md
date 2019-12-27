@@ -60,6 +60,11 @@ Here is an example of Dijsktra’s Algorithm in action:
 
 _TODO_
 
-**Distributed Application**
+**Distributed Application and Thread Safety**
+
+The final core part of the project was separating our Graphical User Interface from the simulation code, allowing the two to be run separately. Because of the Model-View-Controller design pattern, where the model has few, if any, references to the view and controller, this was relatively simple to accomplish; all that was required was to make the model code thread-safe, so that multiple threads could read the simulation state at the same time.
+
+As a demonstration, we run two GUIs at the same time, with different permissions. The top GUI has admin permissions and can make modifications to the world, whereas the bottom GUI only has read-access to the world. Despite having different zoom conditions and different permissions, the two GUIs display the same world state, except for perhaps some slight lag as HTTP requests arrive at the server at potentially delayed intervals: 
+
 ![NewConcurrency](https://user-images.githubusercontent.com/58995473/71516401-08c60280-28a9-11ea-8ed4-d4000686db15.gif)
 
