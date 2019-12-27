@@ -61,6 +61,7 @@ Here is the GUI in action:
 
 ___
 **Dijkstra's Shortest Path Algorithm**
+
 To demonstrate our of Dijskstra’s Shortest Path Algorithm, we used it in game to enable the critter to find the closest food tile, including the number of turns that would be required to eat food directly in front of it. 
 
 Here is an example of Dijsktra’s Algorithm in action: 
