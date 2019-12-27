@@ -62,9 +62,7 @@ To demonstrate our of Dijskstra’s Shortest Path Algorithm, part of the Data St
 
 Here is an example of Dijsktra’s Algorithm in action: 
 
-_TODO_
-
-
+![MazeCritterShortened](https://user-images.githubusercontent.com/58995473/71530069-4302c480-28e8-11ea-8a09-dca4618ea17c.gif)
 ___
 
 **Distributed Application and Thread Safety**
