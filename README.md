@@ -60,6 +60,8 @@ Here is an example of Dijsktra’s Algorithm in action:
 
 _TODO_
 
+___
+
 **Distributed Application and Thread Safety**
 
 The final core part of the project was separating our Graphical User Interface from the simulation code, allowing the two to be run separately. Because of the Model-View-Controller design pattern, where the model has few, if any, references to the view and controller, this was relatively simple to accomplish; all that was required was to make the model code thread-safe, so that multiple threads could read the simulation state at the same time.
