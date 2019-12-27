@@ -58,7 +58,7 @@ Here is the GUI in action:
 ___
 **Dijkstra's Shortest Path Algorithm**
 
-To demonstrate our of Dijskstra’s Shortest Path Algorithm, part of the Data Structures and Algorithms section of our course, we used Dijkstra's Algorithm and a Priority Queue in game to enable a critter to find the closest food tile within a 10 tile radius, including the number of turns that would be required to eat food directly in front of it. This enables critters to be more strategic in looking for food.
+To demonstrate our understanding of Dijskstra’s Shortest Path Algorithm, part of the Data Structures and Algorithms section of our course, we used Dijkstra's Algorithm and a Priority Queue in game to enable a critter to find the closest food tile within a 10 tile radius, including the number of turns that would be required to eat food directly in front of it. This enables critters to be more strategic in looking for food.
 
 Here is an example of Dijsktra’s Algorithm in action: 
 
