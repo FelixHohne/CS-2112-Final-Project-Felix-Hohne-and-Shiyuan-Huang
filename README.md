@@ -41,7 +41,7 @@ This naturally made it challenging to debug, test and appreciate the simulation 
 
 <img width="1279" alt="GUIVersion" src="https://user-images.githubusercontent.com/58995473/71512451-82a0c080-2896-11ea-99b8-67dfd68bf14f.png">
 
-Here, Green tiles represent food tiles with the number on them showing the quantity of food on that hex, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
+Green tiles represent food tiles with the number on them showing the quantity of food on that hex, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
 
 In this Graphical User Interface, users can: 
 + Load custom worlds and critters they wrote using the File Menu
