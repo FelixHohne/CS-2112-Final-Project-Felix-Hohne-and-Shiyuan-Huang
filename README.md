@@ -22,10 +22,6 @@ ___
 
 Here is an example of a program we wrote that causes a critter to spiral on a map. Our Parser parses the program written in the critter language, converts it into an Abstract Syntax Tree, then interprets the instructions based on conditions occurring in the world, as computed by the simulator. 
 
-The Spiral Critter in Action: 
-
-![SpiralVideo](https://user-images.githubusercontent.com/58995473/71511468-c5f93000-2892-11ea-8c83-155208a09357.gif)
-
 We did this by using the following context-free grammar to write our spiral critter program:
 
 <img width="987" alt="Grammar" src="https://user-images.githubusercontent.com/58995473/71489313-4b45fb80-2825-11ea-8001-99c3bb8f9e4c.png">
@@ -33,6 +29,10 @@ We did this by using the following context-free grammar to write our spiral crit
 Using the context-free gramar above, we wrote the following Spiral Critter Program, modified to protect academic integrity: 
 
 <img width="1059" alt="newSpiral" src="https://user-images.githubusercontent.com/58995473/71490416-12a92080-282b-11ea-9e7a-65bb0c230dd5.png">
+
+The Spiral Critter in Action: 
+
+![SpiralVideo](https://user-images.githubusercontent.com/58995473/71511468-c5f93000-2892-11ea-8c83-155208a09357.gif)
 
 ___
 **Graphical User Interface**
