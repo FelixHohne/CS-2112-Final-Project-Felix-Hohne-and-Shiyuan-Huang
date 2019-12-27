@@ -37,7 +37,9 @@ Using the context-free gramar above, we wrote the following Spiral Critter Progr
 ___
 **Graphical User Interface**
 
-_TODO_
+[CUIDisplay.txt](https://github.com/FelixHohne/CS-2112-Final-Project-Felix-Hohne-and-Shiyuan-Huang/files/4004897/CUIDisplay.txt)
+
+
 
 ___
 **Dijkstra's Shortest Path Algorithm**
