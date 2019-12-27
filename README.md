@@ -7,7 +7,7 @@ ___
 
 Our Final Project required approximately 10,000 lines of Java code. 
 
-It involved creating a simulation of a world of animals called critters that can move around, eat food, attack one another, reproduce, and evolve. These critters move on a 2-D hexagonal grid; when they move or perform actions, they use energy. When they run out of energy, they die and become food for other critters. The genome of each critter includes a program that determines what each critter does each turn under specific conditions. When critters mate or bud, this program is copied over to its offspring, possibly with mutations. 
+It involved creating a simulation of a world of animals called critters that can move around, eat food, attack one another, reproduce, and evolve. These critters move on a 2-D hexagonal grid; when they move or perform actions, they use energy. When they run out of energy, they die and become food for other critters. The genome of each critter includes a program that determines what each critter does each turn under specific conditions. When critters mate or bud, this program is copied over to its offspring, possibly with mutations. Depending on the situation, Manna from Heaven, food added at random intervals to random tiles, will be available to critters. 
 
 
 We implemented: 
