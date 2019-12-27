@@ -47,6 +47,11 @@ This naturally made it challenging to debug, test and appreciate the simulation 
 
 In this Graphical User Interface, users can load custom worlds and critters they wrote using the File Menu, read through a simple tutorial using the question mark button, run the simulation step by step or at a continuous speed of up to 500 frames per second using the buttons at the bottom left, click on a critter and see its critter information including entire program and last executed rule on the right panel, and see the number of turns that this simulation has run and the number of critters that are alive. Here, Green tiles represent food tiles, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
 
+Here is the GUI in action: 
+
+![ActionGUI](https://user-images.githubusercontent.com/58995473/71513716-ce099d80-289b-11ea-92cd-d947f9e8077f.gif)
+
+
 ___
 **Dijkstra's Shortest Path Algorithm**
 To demonstrate our of Dijskstra’s Shortest Path Algorithm, we used it in game to enable the critter to find the closest food tile, including the number of turns that would be required to eat food directly in front of it. 
