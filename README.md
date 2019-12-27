@@ -59,7 +59,7 @@ Here is our GUI in action:
 ___
 **Dijkstra's Shortest Path Algorithm**
 
-To demonstrate our understanding of Dijskstra’s Shortest Path Algorithm, part of the Data Structures and Algorithms section of our course, we used Dijkstra's Algorithm and a Priority Queue in game to enable a critter to find the closest food tile within a 30 tile radius, including the number of turns that would be required to eat food directly in front of it. This enables critters to be more strategic in looking for food.
+To demonstrate our understanding of Dijskstra’s Shortest Path Algorithm, part of the Data Structures and Algorithms section of our course, we used Dijkstra's Algorithm and a Priority Queue to enable a critter to find the closest food tile within a 30 tile radius in game , including the number of turns that would be required to eat food directly in front of it. This enables critters to be more strategic in looking for food.
 
 Here is an example of Dijsktra’s Algorithm in action: 
 
@@ -68,9 +68,9 @@ ___
 
 **Distributed Application and Thread Safety**
 
-The final core part of the project was separating our Graphical User Interface from the simulation code, allowing the two to be run separately. Because of our implementation of the Model-View-Controller design pattern, where the model has few, if any, references to the view and controller, this was relatively simple to accomplish; all that was required was to make the model code thread-safe, so that multiple threads could read the simulation state at the same time.
+The final core part of our project was separating our Graphical User Interface from the simulation code, allowing the two to be run separately. Because of our implementation of the Model-View-Controller design pattern, where the model has few, if any, references to the view and controller, this was relatively simple to accomplish; all that was required was to make the model code thread-safe, so that multiple threads could read the simulation state at the same time, and re-route GUI model requests to the new server. 
 
-As a demonstration, we run two GUIs at the same time, with different permissions. The top GUI has administrator access and can make modifications to the world, whereas the bottom GUI has read only access to the world and therefore has the play and pause buttons are greyed out. Despite having different zoom conditions and different permissions, the two GUIs display the same world state, except for perhaps some slight lag as HTTP requests arrive at the server at slightly different intervals: 
+As a demonstration, we run two GUIs at the same time, with different permissions. The top GUI has administrator access and can make modifications to the world, whereas the bottom GUI has read only access to the world and therefore has the play and pause buttons are greyed out. Despite having different zoom conditions and different permissions, the two GUIs display the same world state: 
 
 ![NewConcurrency](https://user-images.githubusercontent.com/58995473/71516401-08c60280-28a9-11ea-8ed4-d4000686db15.gif)
 
