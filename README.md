@@ -45,7 +45,14 @@ This naturally made it challenging to debug, test and appreciate the simulation 
 
 <img width="1279" alt="GUIVersion" src="https://user-images.githubusercontent.com/58995473/71512451-82a0c080-2896-11ea-99b8-67dfd68bf14f.png">
 
-In this Graphical User Interface, users can load custom worlds and critters they wrote using the File Menu, read through a simple tutorial using the question mark button, run the simulation step by step or at a continuous speed of up to 500 frames per second using the buttons at the bottom left, click on a critter and see its critter information including entire program and last executed rule on the right panel, and see the number of turns that this simulation has run and the number of critters that are alive. Here, Green tiles represent food tiles, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
+Here, Green tiles represent food tiles with the number on them representing the amount of food, light blue tiles represent empty tiles, arrows represent critters, and grey tiles represent rock hexes. We show the end of the world as an endless sea of rock hexes, so that users can never scroll off the edge of the map. 
+
+In this Graphical User Interface, users can: 
++ Load custom worlds and critters they wrote using the File Menu
++ Read through a simple tutorial using the question mark button 
++ Run the simulation step by step or at a continuous speed of up to 500 frames per second using the buttons at the bottom left
++ Click on a critter and see its critter information including entire program and last executed rule on the right panel
++ See the number of turns that this simulation has run and the number of critters that are alive. 
 
 Here is the GUI in action: 
 
