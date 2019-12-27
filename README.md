@@ -50,8 +50,8 @@ Here, Green tiles represent food tiles with the number on them representing the 
 In this Graphical User Interface, users can: 
 + Load custom worlds and critters they wrote using the File Menu
 + Read through a simple tutorial using the question mark button 
-+ Run the simulation step by step or at a continuous speed of up to 500 frames per second using the buttons at the bottom left
-+ Click on a critter and see its critter information including entire program and last executed rule on the right panel
++ Run the simulation step by step or continuously using the buttons at the bottom left
++ Click on a critter and see information about its current state
 + See the number of turns that this simulation has run and the number of critters that are alive. 
 
 Here is the GUI in action: 
