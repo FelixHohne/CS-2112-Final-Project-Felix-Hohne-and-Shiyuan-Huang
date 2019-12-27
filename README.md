@@ -24,6 +24,8 @@ Here is an example of a program we wrote that causes a critter to spiral on a ma
 
 The Spiral Critter in Action: 
 
+![SpiralVideo](https://user-images.githubusercontent.com/58995473/71511468-c5f93000-2892-11ea-8c83-155208a09357.gif)
+
 We did this by using the following context-free grammar to write our spiral critter program:
 
 <img width="987" alt="Grammar" src="https://user-images.githubusercontent.com/58995473/71489313-4b45fb80-2825-11ea-8001-99c3bb8f9e4c.png">
