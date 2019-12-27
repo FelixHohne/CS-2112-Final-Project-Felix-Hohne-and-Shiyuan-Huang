@@ -15,7 +15,7 @@ We implemented:
 + A Parser, Interpreter, and Fault Injector for a context-free grammar with 16 productions that represent the critter genomes
 + A simulator and Graphical User Interface to view the Critter World
 + A method that calculates the closest available food to a critter using Dijkstra’s Algorithm with a Priority Queue implemented using a Binary Heap
-+ A multi-threaded, distributed application communicating over HTTP and using JSON, with the GUI running on a client computer and querying the server about the state of the world, and the model containing the simulation logic, parser, and interpreter on a server and responding to client requests via HTTP
++ A multi-threaded, distributed application communicating over HTTP and using JSON, with the GUI running on a client computer and querying the server about the state of the world, and the model containing the simulation logic, parser, interpreter, and fault injector on a server and responding to client requests via HTTP
 
 While we are unable to show our actual code in order to protect academic integrity, we provide several examples of features we implemented.
 
