@@ -1,5 +1,5 @@
 ## Fall 2019: Critterworld 
-### CS 2112: Honors Object Oriented Design and Data Structures at Cornell University 
+### CS 2112: Honors Object Oriented Design and Data Structures @ Cornell University 
 ### by Shiyuan Huang and Felix Hohne 
 
 ___
