@@ -2,7 +2,7 @@
 ### CS 2112: Honors Object Oriented Design and Data Structures @ Cornell University 
 ### by Shiyuan Huang and Felix Hohne 
 
-**We are unable to show our code due to Academic Integrity concerns. **
+**We are unable to show our code due to Academic Integrity concerns.**
 ___
 **Abstract**
 
