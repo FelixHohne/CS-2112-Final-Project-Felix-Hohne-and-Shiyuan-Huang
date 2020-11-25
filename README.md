@@ -2,6 +2,7 @@
 ### CS 2112: Honors Object Oriented Design and Data Structures @ Cornell University 
 ### by Shiyuan Huang and Felix Hohne 
 
+**We are unable to show our code due to Academic Integrity concerns. **
 ___
 **Abstract**
 
@@ -17,7 +18,6 @@ We implemented:
 + A method that calculates the closest available food to a critter using Dijkstra’s Algorithm with a Priority Queue implemented using a Binary Heap
 + A multi-threaded, distributed application based on the Model-View-Controller design pattern that communicates over HTTP and using JSON, with the GUI running on a client computer and querying the server about the state of the world, and the model containing the simulation logic, parser, interpreter, and fault injector on a server and responding to client requests via HTTP
 
-**While we are unable to show our actual code in order to protect academic integrity, we provide several examples of features we implemented.**
 
 ___
 **Spiral Critter** 
